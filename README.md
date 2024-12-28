@@ -76,10 +76,9 @@ Frontend: Streamlit
 Backend: Python
 Modeling: Ridge Regression
 Styling: CSS
+
+
 📧 Contact
-For queries or suggestions, contact: [Your Email Here]
+For queries or suggestions, contact: [mohdshazan9876@gmail.com
+]
 
-vbnet
-Copy code
-
-This version includes all content formatted explicitly for a Markdown README file. Save it as `README.md
