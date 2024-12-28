@@ -60,8 +60,19 @@ BHK: Number of bedrooms.
 📸 Screenshots
 Main Interface
 
+
+
+
+
 ![App Screenshot 1]([Bengaluru House Price Predictor - Google Chrome 28-12-2024 14_02_04](https://github.com/user-attachments/assets/da39ed79-1a9d-49b4-b5b2-c7ea5960d0e9)
 )
+
+
+
+
+
+
+
 
 
 Dataset Preview
